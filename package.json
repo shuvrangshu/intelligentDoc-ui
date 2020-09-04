@@ -1,0 +1,25 @@
+{
+  "name": "ankita-ghosh",
+  "version": "1.0.0",
+  "description": "Ankita Ghosh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuvrangshu/Ankita.git"
+  },
+  "author": "Shuvrangshu Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuvrangshu/Ankita/issues"
+  },
+  "homepage": "https://github.com/shuvrangshu/Ankita#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
